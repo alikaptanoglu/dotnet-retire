@@ -1,4 +1,5 @@
-FROM microsoft/dotnet:2.1-sdk
+FROM mcr.microsoft.com/dotnet/core/sdk:2.1
+ENV PATH="${PATH}:~/.dotnet/tools"
 
 # Pre-pre dotnet
 RUN dotnet --info
