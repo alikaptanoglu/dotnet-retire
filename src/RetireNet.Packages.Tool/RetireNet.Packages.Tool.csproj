@@ -34,4 +34,11 @@
         </Content>
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove="Services\Resources\Overrides.xml" />
+      <Content Include="Services\Resources\Overrides.xml">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
 </Project>
