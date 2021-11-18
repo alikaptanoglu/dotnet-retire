@@ -3,6 +3,6 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.SpaServices" Version="2.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices" Version="2.1.13" />
   </ItemGroup>
 </Project>
