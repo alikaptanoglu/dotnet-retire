@@ -1,5 +1,5 @@
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 
 # Enable SSL & Install .NET Core
 RUN apt-get update \
