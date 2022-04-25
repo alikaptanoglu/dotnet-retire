@@ -24,7 +24,7 @@
         <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="2.1.0" />
         <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="2.1.0" />
         <PackageReference Include="Microsoft.Extensions.Options" Version="2.1.0" />
-        <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
         <PackageReference Include="NuGet.ProjectModel" Version="4.8.0" />
     </ItemGroup>
 
